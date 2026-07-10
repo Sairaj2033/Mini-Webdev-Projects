@@ -1,4 +1,4 @@
-# 🌐 Tiny WebDev Projects
+# 🌐 Webcraft Studio - Tiny WebDev Projects
 
 > A curated collection of beginner-to-intermediate web development projects built to strengthen frontend fundamentals, JavaScript logic, and modern web development practices.
 
