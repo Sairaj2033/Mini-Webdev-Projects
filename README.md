@@ -138,11 +138,7 @@ Open any project folder and launch the `index.html` file in your browser, or use
 
 ---
 
-# 📸 Preview
 
-> Add screenshots or GIFs of each project here.
-
----
 
 # 🤝 Contributing
 
