@@ -1,4 +1,4 @@
-# 🌐 Webcraft Studio - Tiny WebDev Projects
+# 🌐 WebDev Atlas
 
 > A curated collection of beginner-to-intermediate web development projects built to strengthen frontend fundamentals, JavaScript logic, and modern web development practices.
 
@@ -20,7 +20,7 @@
 
 # 📖 About
 
-**Tiny WebDev Projects** is an open-source collection of mini web development projects created while learning modern frontend technologies.
+**WebDev Atlas** is an open-source collection of mini web development projects created while learning modern frontend technologies.
 
 The repository focuses on strengthening core concepts through practical implementations, ranging from responsive layouts to interactive JavaScript applications.
 
@@ -105,7 +105,7 @@ The repository focuses on strengthening core concepts through practical implemen
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Sairaj2033/Tiny-Webdev-Projects.git
+git clone https://github.com/Sairaj2033/WebDev Atlas.git
 cd Tiny-Webdev-Projects
 ```
 
